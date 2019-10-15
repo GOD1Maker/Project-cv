@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QUST.jpg</file>
+        <file>Threshold.jpg</file>
+        <file>ConvexHull2.jpg</file>
+        <file>resource.jpg</file>
+        <file>background4.jpeg</file>
+        <file>IMG_0707.jpeg</file>
+    </qresource>
+</RCC>
